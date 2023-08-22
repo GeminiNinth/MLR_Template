@@ -33,8 +33,7 @@
 
     "files.exclude": { // ファイルを非表示にする
         "**/*.pyc": true,
-        // "*.py": true,
-        "*/.gitkeep": true,
+        "**/*.gitkeep": true,
         // "**/*.pth": true,
     },
 
