@@ -32,8 +32,10 @@
     "workbench.iconTheme": "material-icon-theme", // アイコンテーマをMaterialに
 
     "files.exclude": { // ファイルを非表示にする
-    // "**/*.pyc": true,
-    // "**/*.pth": true,
+        "**/*.pyc": true,
+        // "*.py": true,
+        "*/.gitkeep": true,
+        // "**/*.pth": true,
     },
 
     "notebook.lineNumbers": "on", // ノートブックの行番号を表示
