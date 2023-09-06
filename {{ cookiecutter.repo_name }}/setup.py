@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='codes for GelSight-uSkin research',
-    author='GeminiNinth',
+    description='{{ cookiecutter.description }}',
+    author='{{ cookiecutter.author_name }}',
     license='MIT',
 )
