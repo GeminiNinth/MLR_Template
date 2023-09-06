@@ -1,7 +1,7 @@
 {{ cookiecutter.project_name }}
 ====================
 
-codes for {{ cookiecutter.description }} research
+codes for {{ cookiecutter.description }}
 
 Project Organization
 --------------------
