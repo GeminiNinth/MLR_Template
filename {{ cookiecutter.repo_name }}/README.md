@@ -1,4 +1,4 @@
-{{ cokkiecutter.project_name }}
+{{ cookiecutter.project_name }}
 ====================
 
 codes for {{ cookiecutter.description }} research
